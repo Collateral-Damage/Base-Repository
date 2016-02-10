@@ -9,7 +9,8 @@ Once an idea has been refined and approved, Project Leaders will assemble a team
 
 1. Idea Stage
 2. Initial Design - Pack Goals, Difficulty, Theme, What makes it unique!
-3. Proposed Mod List
-4. Config Changes
-5. Testing!
-6. Repeat!
+3. Small team formation
+4. Proposed Mod List
+5. Config Changes
+6. Testing!
+7. Repeat!
