@@ -14,3 +14,14 @@ Once an idea has been refined and approved, Project Leaders will assemble a team
 5. Config Changes
 6. Testing!
 7. Repeat!
+
+#Who can join?
+You can! Pack development encompasses an entire spectrum of people in the Minecraft Modded Community, and you are apart of it! Content creators, artists, script junkies, crash-testers 
+
+There are no restrictions put in place as to who can be a member so long as the following guidelines are met:
+
+1. You are able to communicate your ideas coherently.
+2. You can work well with others and in a team environment!
+3. You are ready to have a blast!
+
+That is about it! The only other expectation is that those volunteering for pack-teams will be able to set aside time for development!
