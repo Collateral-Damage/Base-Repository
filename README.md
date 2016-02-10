@@ -1,6 +1,6 @@
 # Base-Repository
 Model repository for all future repos.
-Each repo should have a folder for Client and Server files. 
+Each repo should have a folder for Client and Server files. They should be named (Pack Name) Client and (Pack Name) Server respectively. 
 
 1. Folders should contain ONLY what is necessary to the end user. Mods, Configs, Scripts, Template, ETC.
 2. Server files should contain all forge libraries and jars necessary to run the server.
