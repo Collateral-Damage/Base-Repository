@@ -33,7 +33,7 @@ Anybody with an ounce of creativity is encouraged to join the team - your input 
 
 Everyone! This team is able to serve as an outlet to those who are interested in pack development but are unsure where to start. 
 
-* Interested in pack develppment? You will be able to work hand-in-hand with experienced pack developers with the benefits of group management. 
+* Interested in pack develppment? You will be able to work hand-in-hand with experienced pack developers with the benefits of group management. You will gain experience in development as well as watch a new pack come together through your role! 
 * Interested in media production through streaming or youtube? You will have the first leap into brand new packs not yet (officially) available to the public, allowing you to produce unique content ahead of the competition!
 * Interested in artsy things? Your art can be found through in-game items, banners, teasers as well as the icons on the launchers! 
 * Just like playing minecraft? Cool! You will be able to access the newest and latest forms of upcoming packs and your input will directly shape their development!
