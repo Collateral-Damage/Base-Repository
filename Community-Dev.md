@@ -2,7 +2,7 @@
 Community dev (Temp name) is a team founded by DrasticDemise for the group collaboration of modpack development. This group is open to **all** members of the community who show an expressed interest in pack development, testing, and production. 
 
 #Why is this different? 
-Unlike other pack development teams, admission to this team is not fixed through invite or notable works. Admission is always open and all-inclusive to those that want to be here! All pack development repositories are open to the public and free for download AND contribution at any point in their development, license withstanding. Group developmental projects provide an outlet for new pack developers to emerge once they have gained experience from the team, further expanding the community!
+Unlike other pack development teams, admission to this team is not fixed through invite or notable works. Admission is always open and all-inclusive to those that want to be here! All pack development repositories are open to the public and free for download AND contribution at any point in their development, license withstanding. 
 
 #How does development work?
 Once an idea has been refined and approved, Project Leaders will assemble a team for the development of that specific pack. Pack-specific teams are formed on a volunteer basis from the members listed here. From there, development goes into full swing! Mod lists are created, config changes are made, scripts are scripted and test versions are compiled! The pack is molded around the original idea that was layed out while receiving the supervision of the project leader. Full documentation of **all** stages of development will be available in that packs repository or forum section.
@@ -29,6 +29,15 @@ Development of a pack pulls from the entire spectrum of the modded community! Me
 
 Anybody with an ounce of creativity is encouraged to join the team - your input is always valuable!
 
+#Who benefits from this?
+
+Everyone! This team is able to serve as an outlet to those who are interested in pack development but are unsure where to start. 
+
+* Interested in pack develppment? You will be able to work hand-in-hand with experienced pack developers with the benefits of group management. 
+* Interested in media production through streaming or youtube? You will have the first leap into brand new packs not yet (officially) available to the public, allowing you to produce unique content ahead of the competition!
+* Interested in artsy things? Your art can be found through in-game items, banners, teasers as well as the icons on the launchers! 
+* Just like playing minecraft? Cool! You will be able to access the newest and latest forms of upcoming packs and your input will directly shape their development!
+
 #Who can join?
 You can! Pack development encompasses an entire spectrum of people in the Minecraft Modded Community, and you are apart of it!
 
@@ -46,6 +55,7 @@ Joining is extremely simple! You will require accounts from the following websit
 * http://www.feed-the-beast.com/ - Used for forum discussions
 * https://slack.com/ - Used for team communications
 * https://github.com/ - Used for pack development
+* https://multimc.org/ - Used for easy manipulation of many minecraft instances. Not required, but suggested. 
 
 Once you have an account on the websites above, simply submit an issue to this repository tagged [Application] (Your web name) and answer the following questions:
 
