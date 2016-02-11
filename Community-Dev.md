@@ -55,5 +55,8 @@ Once you have an account on the websites above, simply submit an issue to this r
 4. How important is teamwork to you?
 5. Favorite color?
 6. You have a problem with somebody else on the team, who do you notify and or handle the situation?
+7. Any extra information that we should know.
 
 These questions are designed as a way to get to know you - **not** to determine your eligibility in the team. **Everyone** is qualified to join! That said, please answer them semi-seriously so that we know where to place you without confusion.
+
+Welcome to the team! 
