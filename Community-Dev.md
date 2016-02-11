@@ -57,7 +57,7 @@ Joining is extremely simple! You will require accounts from the following websit
 * https://github.com/ - Used for pack development
 * https://multimc.org/ - Used for easy manipulation of many minecraft instances. Not required, but suggested. 
 
-Once you have an account on the websites above, simply submit an issue to this repository tagged [Application] (Your web name) and answer the following questions:
+Once you have an account on the websites above, simply submit an issue to this repository tagged [Application] YourWebName and answer the following questions:
 
 1. What role do you think you fit in best and why? (List under Who Is Needed)
 2. Have you ever created content of any sort for modded minecraft?
