@@ -1,3 +1,5 @@
+#Work in Progress - Currently on hold
+
 # What is Community-Dev?
 Community dev (Temp name) is a team founded by DrasticDemise for the group collaboration of modpack development. This group is open to **all** members of the community who show an expressed interest in pack development, testing, and production. 
 
